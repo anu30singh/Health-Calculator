@@ -1,0 +1,2 @@
+# BMI-Calculator
+BASIC VANILLA JS 
