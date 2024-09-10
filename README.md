@@ -1,2 +1,2 @@
 # BMI-Calculator
-BASIC VANILLA JS 
+BASIC HTML/CSS Javascript 
